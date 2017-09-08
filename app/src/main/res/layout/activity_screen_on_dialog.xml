@@ -3,17 +3,13 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <!--<ImageView-->
-        <!--android:layout_width="250dp"-->
-        <!--android:layout_height="200dp"-->
-        <!--android:id="@+id/screen_on_dialog_image"/>-->
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_margin="30dp"
-        android:id="@+id/screen_on_dialog_text"/>
+        android:id="@+id/screen_on_dialog_text"
+        android:text="No call or text is worth more than your LIFE"/>
 
 
     <Button
